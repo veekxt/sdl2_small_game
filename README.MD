@@ -1,6 +1,6 @@
 无聊写的sdl2小游戏
 
-依赖SDL_ttf库
+依赖SDL2_ttf,adl2_image库
 
 snake：贪吃蛇
 
