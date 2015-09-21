@@ -8,9 +8,9 @@ mytetris：俄罗斯方块
 
 截图:
 
-![snake](http://7xlxvl.com1.z0.glb.clouddn.com/mysoftmy_snake.png)
+<img width="300" src="http://7xlxvl.com1.z0.glb.clouddn.com/mysoftmy_snake.png"></img>
 
-![tetris](http://7xlxvl.com1.z0.glb.clouddn.com/mysoftmy_tertis.png)
+<img width="300" src="http://7xlxvl.com1.z0.glb.clouddn.com/mysoftmy_tertis.png"></img>
 
 sdl2 small game
 
