@@ -37,7 +37,7 @@ void draw_wangge(int x,int y,int line_w,int rec_w,int width ,int height,Uint32 c
 void drawtext(int x,int y,const char *S,int fontsize,Uint32 color,Uint32 bkcolor)
 {
     TTF_Init();
-    TTF_Font *font= TTF_OpenFont("cour.ttf",fontsize);
+    TTF_Font *font= TTF_OpenFont("UbuntuMono-R.ttf",fontsize);
     int w,h;
     TTF_SizeText(font,S,&w,&h);
     if(font == NULL)
