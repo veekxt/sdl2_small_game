@@ -11,12 +11,3 @@ mytetris：俄罗斯方块
 <img width="300" src="http://7xlxvl.com1.z0.glb.clouddn.com/mysoftmy_snake.png"></img>
 
 <img width="300" src="http://7xlxvl.com1.z0.glb.clouddn.com/mysoftmy_tertis.png"></img>
-
-sdl2 small game
-
-dependent on SDL_ttf library
-
-snake：snake
-
-mytetris：Tetris
-
