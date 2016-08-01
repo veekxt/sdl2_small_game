@@ -1,6 +1,6 @@
 无聊写的sdl2小游戏
 
-依赖SDL2_ttf,adl2_image
+依赖SDL2_ttf, sdl2_image
 
 snake：贪吃蛇
 
